@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.input-wrap {
+  display: flex;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 30px;
+}
